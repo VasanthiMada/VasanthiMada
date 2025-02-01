@@ -7,10 +7,9 @@
 ---
 
 ## 🌱 Currently Learning
-- **Full-Stack Web Development (React, Node.js, MongoDB)**
+- ****
 - **Advanced Machine Learning & Deep Learning**
 - **Competitive Programming & Data Structures**
-
 ---
 
 ## 👀 Interests
@@ -22,7 +21,7 @@
 
 ## 💞️ Looking to Collaborate On
 - **Machine Learning Projects**
-- **Web Development Projects**
+
 - **Open-Source Contributions**
 - **Hackathons & Tech Competitions**
 
@@ -31,7 +30,7 @@
 ## 📫 Connect With Me
 - **LinkedIn**: [Vasanthi Mada](https://www.linkedin.com/in/vasanthi-mada)
 - **GitHub**: [@VasanthiMada](https://github.com/VasanthiMada)
-- **Email**: [vasanthimada@example.com](mailto:vasanthimada@example.com) *(Replace with your real email)*
+- **Email**: [vasanthimada75@gmail.com](mailto:vasanthimada75@gmail.com) *(Replace with your real email)*
 
 ---
 
