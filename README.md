@@ -7,7 +7,7 @@
 ---
 
 ## 🌱 Currently Learning
-- ****
+****
 - **Advanced Machine Learning & Deep Learning**
 - **Competitive Programming & Data Structures**
 ---
